@@ -1,5 +1,5 @@
 # Self Checkout System
-A self checkout system enables customers to do shopping without having to wait for long lines of waiting to pay for the bill. The system tries to accomplish
+A self checkout system enables customers to do shopping without having to wait in long lines to pay the bills. The system tries to accomplish
 - Removal of waiting queues, thus, saving time.
 - Handling of fraudulent cases efficiently.
     - Unscanned items added in the trolley are detected.
